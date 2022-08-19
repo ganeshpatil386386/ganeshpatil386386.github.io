@@ -1,7 +1,7 @@
-# chryzcode portfolio 
-My portfolio
+# DevGan
+Personal portfolio
 
-### Stacks 
+### Built with
 - HTML
 - CSS
 - Javascript 
