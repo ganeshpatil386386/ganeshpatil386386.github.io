@@ -1,7 +1,3 @@
 # DevGan
-Personal portfolio
+Personal portfolio Website.
 
-### Built with
-- HTML
-- CSS
-- Javascript 
